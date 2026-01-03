@@ -66,7 +66,7 @@ Candidate data is typically stored under a `data/` folder (create it if not pres
 Sample metrics (examples of what the chatbot reports):
 
 | Metric | Example Value |
-|--------|---------------|
+| -------- | --------------- |
 | Total candidates processed | 124 |
 | Offers made | 9 |
 | Average recruitment time | 21 days |
